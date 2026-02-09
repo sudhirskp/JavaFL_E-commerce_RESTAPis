@@ -6,9 +6,9 @@ A simple Java Spring Boot application that implements a RESTful API for managing
 
 ## 📚 Documentation
 
-- **[QUICK_REFERENCE.md](QUICK_REFERENCE.md)** - Quick API reference card ⚡
-- **[SETUP_GUIDE.md](SETUP_GUIDE.md)** - Installation and setup instructions
-- **[PROJECT_SUMMARY.md](PROJECT_SUMMARY.md)** - Complete implementation overview
+- **[QUICK_REFERENCE.md](JavaFL/QUICK_REFERENCE.md)** - Quick API reference card ⚡
+- **[SETUP_GUIDE.md](JavaFL/SETUP_GUIDE.md)** - Installation and setup instructions
+- **[PROJECT_SUMMARY.md](JavaFL/PROJECT_SUMMARY.md)** - Complete implementation overview
 
 [//]: # (- **[PROJECT_STRUCTURE.md]&#40;PROJECT_STRUCTURE.md&#41;** - Visual project structure and diagrams)
 
