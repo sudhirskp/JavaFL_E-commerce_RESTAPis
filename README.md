@@ -2,8 +2,6 @@
 
 A simple Java Spring Boot application that implements a RESTful API for managing a collection of products (similar to Flipkart's product catalog).
 
-> 📚 **New to this project?** Start with [DOCUMENTATION_INDEX.md](DOCUMENTATION_INDEX.md) for a complete guide to all documentation!
-
 ## 📚 Documentation
 
 - **[QUICK_REFERENCE.md](QUICK_REFERENCE.md)** - Quick API reference card ⚡
