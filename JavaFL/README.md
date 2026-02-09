@@ -2,17 +2,19 @@
 
 A simple Java Spring Boot application that implements a RESTful API for managing a collection of products (similar to Flipkart's product catalog).
 
-> 📚 **New to this project?** Start with [DOCUMENTATION_INDEX.md](JavaFL/DOCUMENTATION_INDEX.md) for a complete guide to all documentation!
+> 📚 **New to this project?** Start with [DOCUMENTATION_INDEX.md](DOCUMENTATION_INDEX.md) for a complete guide to all documentation!
 
 ## 📚 Documentation
 
-- **[QUICK_REFERENCE.md](JavaFL/QUICK_REFERENCE.md)** - Quick API reference card ⚡
-- **[SETUP_GUIDE.md](JavaFL/SETUP_GUIDE.md)** - Installation and setup instructions
-- **[PROJECT_SUMMARY.md](JavaFL/PROJECT_SUMMARY.md)** - Complete implementation overview
-- **[PROJECT_STRUCTURE.md](JavaFL/PROJECT_STRUCTURE.md)** - Visual project structure and diagrams
-- **[CHECKLIST.md](JavaFL/CHECKLIST.md)** - Requirements checklist and feature list
-- **[Postman_Collection.json](JavaFL/Postman_Collection.json)** - Postman collection for testing
-- **[test-api.ps1](JavaFL/test-api.ps1)** - PowerShell automated test script
+- **[QUICK_REFERENCE.md](QUICK_REFERENCE.md)** - Quick API reference card ⚡
+- **[SETUP_GUIDE.md](SETUP_GUIDE.md)** - Installation and setup instructions
+- **[PROJECT_SUMMARY.md](PROJECT_SUMMARY.md)** - Complete implementation overview
+- **[PROJECT_STRUCTURE.md](PROJECT_STRUCTURE.md)** - Visual project structure and diagrams
+
+[//]: # (- **[CHECKLIST.md]&#40;CHECKLIST.md&#41;** - Requirements checklist and feature list)
+- **[Postman_Collection.json](Postman_Collection.json)** - Postman collection for testing
+
+[//]: # (- **[test-api.ps1]&#40;test-api.ps1&#41;** - PowerShell automated test script)
 
 ## Features
 
