@@ -9,10 +9,11 @@ A simple Java Spring Boot application that implements a RESTful API for managing
 - **[QUICK_REFERENCE.md](QUICK_REFERENCE.md)** - Quick API reference card ⚡
 - **[SETUP_GUIDE.md](SETUP_GUIDE.md)** - Installation and setup instructions
 - **[PROJECT_SUMMARY.md](PROJECT_SUMMARY.md)** - Complete implementation overview
-- **[PROJECT_STRUCTURE.md](PROJECT_STRUCTURE.md)** - Visual project structure and diagrams
+
+[//]: # (- **[PROJECT_STRUCTURE.md]&#40;PROJECT_STRUCTURE.md&#41;** - Visual project structure and diagrams)
 
 [//]: # (- **[CHECKLIST.md]&#40;CHECKLIST.md&#41;** - Requirements checklist and feature list)
-- **[Postman_Collection.json](Postman_Collection.json)** - Postman collection for testing
+[//]: # (- **[Postman_Collection.json]&#40;Postman_Collection.json&#41;** - Postman collection for testing)
 
 [//]: # (- **[test-api.ps1]&#40;test-api.ps1&#41;** - PowerShell automated test script)
 
