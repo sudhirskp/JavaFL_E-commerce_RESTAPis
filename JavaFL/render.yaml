@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: javafl-api
+    env: java
+    buildCommand: "./mvnw clean package -DskipTests"
+    startCommand: "java -Dserver.port=$PORT -jar target/JavaFL-0.0.1-SNAPSHOT.jar"
